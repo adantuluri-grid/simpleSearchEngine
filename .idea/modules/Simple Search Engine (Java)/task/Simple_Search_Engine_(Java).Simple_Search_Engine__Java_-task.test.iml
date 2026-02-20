@@ -7,7 +7,7 @@
     <content url="file://$MODULE_DIR$/../../../../Simple Search Engine (Java)/task/test">
       <sourceFolder url="file://$MODULE_DIR$/../../../../Simple Search Engine (Java)/task/test" isTestSource="true" />
     </content>
-    <orderEntry type="jdk" jdkName="corretto-23" jdkType="JavaSDK" />
+    <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Simple_Search_Engine_(Java).Simple_Search_Engine__Java_-task.main" />
     <orderEntry type="module" module-name="Simple_Search_Engine_(Java).util.main" />
